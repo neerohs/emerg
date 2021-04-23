@@ -1,0 +1,327 @@
+#EXTM3U
+
+
+
+
+
+-------------------EMERGENCIA:
+
+
+
+#EXTINF:-1 tvg-id="GLOBO SAO PAULO" tvg-name="Globo SP HD₁" tvg-logo="http://sv1.redeg10.com:8880/images/ffb0fd7453daeddadaf59cbc7f16c989.png" group-title="EMERGENCIA",Globo SP HD₁
+http://lista.minhadns.me:80/600600900/800900900/97838
+#EXTINF:-1 tvg-id="GLOBO SAO PAULO" tvg-name="Globo SP HD₁ - VanSJ" tvg-logo="http://paineliks.ddns.net/images/canaispng/Globo%20HD%20SP.png" group-title="EMERGENCIA",Globo SP HD₁ - VanSJ
+http://lista.minhadns.me:80/600600900/800900900/115115
+#EXTINF:-1 tvg-id="GLOBO SAO PAULO" tvg-name="Globo SP HD₂" tvg-logo="http://sv1.redeg10.com:8880/images/ffb0fd7453daeddadaf59cbc7f16c989.png" group-title="EMERGENCIA",Globo SP HD₂
+http://lista.minhadns.me:80/600600900/800900900/183600
+#EXTINF:-1 tvg-id="GLOBO SAO PAULO" tvg-name="Globo SP SD₁" tvg-logo="http://sv1.redeg10.com:8880/images/0913dc04efb92abbae689b430ae2d5b6.png" group-title="EMERGENCIA",Globo SP SD₁
+#EXTINF:-1 tvg-id="GLOBO RIO DE JANEIRO" tvg-name="Globo RJ FHD₁ - RS" tvg-logo="http://paineliks.ddns.net/images/canaispng/Globo%20HD%20SP.png" group-title="EMERGENCIA",Globo RJ FHD₁ - RS
+http://lista.minhadns.me:80/600600900/800900900/115110
+#EXTINF:-1 tvg-id="GLOBO RIO DE JANEIRO" tvg-name="Globo RJ FHD₂" tvg-logo="http://sv1.redeg10.com:8880/images/ffb0fd7453daeddadaf59cbc7f16c989.png" group-title="EMERGENCIA",Globo RJ FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183601
+#EXTINF:-1 tvg-id="GLOBO RIO DE JANEIRO" tvg-name="Globo RJ HD₁" tvg-logo="http://sv1.redeg10.com:8880/images/ffb0fd7453daeddadaf59cbc7f16c989.png" group-title="EMERGENCIA",Globo RJ HD₁
+http://lista.minhadns.me:80/600600900/800900900/97829
+#EXTINF:-1 tvg-id="GLOBO RIO DE JANEIRO" tvg-name="Globo RJ HD₁ - CF" tvg-logo="http://paineliks.ddns.net/images/canaispng/Globo%20HD%20SP.png" group-title="EMERGENCIA",Globo RJ HD₁ - CF
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 01: A Casa HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 01: A Casa HD₁
+http://lista.minhadns.me:80/600600900/800900900/164887
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 01: A Casa SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 01: A Casa SD₁
+http://lista.minhadns.me:80/600600900/800900900/164888
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 02: Confessionário HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 02: Confessionário HD₁
+http://lista.minhadns.me:80/600600900/800900900/164889
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 02: Confessionário SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 02: Confessionário SD₁
+http://lista.minhadns.me:80/600600900/800900900/164890
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 03: Quarto Cordel HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 03: Quarto Cordel HD₁
+http://lista.minhadns.me:80/600600900/800900900/164891
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 03: Quarto Cordel SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 03: Quarto Cordel SD₁
+http://lista.minhadns.me:80/600600900/800900900/164892
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 04: Quarto Colorido HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 04: Quarto Colorido HD₁
+http://lista.minhadns.me:80/600600900/800900900/164893
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 04: Quarto Colorido SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 04: Quarto Colorido SD₁
+http://lista.minhadns.me:80/600600900/800900900/164894
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 05: Chuveiro HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 05: Chuveiro HD₁
+http://lista.minhadns.me:80/600600900/800900900/164895
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 05: Chuveiro SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 05: Chuveiro SD₁
+http://lista.minhadns.me:80/600600900/800900900/164896
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 06: Cozinha Vip-Xepa HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 06: Cozinha Vip-Xepa HD₁
+http://lista.minhadns.me:80/600600900/800900900/164897
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 06: Cozinha Vip-Xepa SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 06: Cozinha Vip-Xepa SD₁
+http://lista.minhadns.me:80/600600900/800900900/164898
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 07: Sala de Estar HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 07: Sala de Estar HD₁
+http://lista.minhadns.me:80/600600900/800900900/164899
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 07: Sala de Estar SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 07: Sala de Estar SD₁
+http://lista.minhadns.me:80/600600900/800900900/164900
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 08: Piscina HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 08: Piscina HD₁
+http://lista.minhadns.me:80/600600900/800900900/164901
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 08: Piscina SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 08: Piscina SD₁
+http://lista.minhadns.me:80/600600900/800900900/164902
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 09: Jardim HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 09: Jardim HD₁
+http://lista.minhadns.me:80/600600900/800900900/164903
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 09: Jardim SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 09: Jardim SD₁
+http://lista.minhadns.me:80/600600900/800900900/164904
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 10: Academia HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 10: Academia HD₁
+http://lista.minhadns.me:80/600600900/800900900/164905
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 10: Academia SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 10: Academia SD₁
+http://lista.minhadns.me:80/600600900/800900900/164906
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 11: A Casa 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 11: A Casa 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/164907
+#EXTINF:-1 tvg-id="bbb21.br" tvg-name="BBB 11: A Casa 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/BBB21.png" group-title="EMERGENCIA",BBB 11: A Casa 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/164908
+#EXTINF:-1 tvg-id="bbb-br.br" tvg-name="BBB 2021: (MOSAICO) FHD₁" tvg-logo="https://media.hugogloss.uol.com.br/uploads/2020/10/bbb-logo-1.jpg" group-title="EMERGENCIA",BBB 2021: (MOSAICO) FHD₁
+http://lista.minhadns.me:80/600600900/800900900/164885
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record SP HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Record%20HD.png" group-title="EMERGENCIA",Record SP HD₁
+http://lista.minhadns.me:80/600600900/800900900/2876
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record SP HD₁ - CAMP" tvg-logo="http://paineliks.ddns.net/images/canaispng/Record%20HD.png" group-title="EMERGENCIA",Record SP HD₁ - CAMP
+http://lista.minhadns.me:80/600600900/800900900/115060
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record SP HD₁ - SAN" tvg-logo="http://paineliks.ddns.net/images/canaispng/Record%20HD.png" group-title="EMERGENCIA",Record SP HD₁ - SAN
+http://lista.minhadns.me:80/600600900/800900900/115058
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record SP HD₁ - SJRP" tvg-logo="http://paineliks.ddns.net/images/canaispng/Record%20HD.png" group-title="EMERGENCIA",Record SP HD₁ - SJRP
+http://lista.minhadns.me:80/600600900/800900900/115056
+#EXTINF:-1 tvg-id="RECORD" tvg-name="Record SP HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Record%20HD.png" group-title="EMERGENCIA",Record SP HD₂
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/SBT%20HD.png" group-title="EMERGENCIA",SBT SP FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183609
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SBT%20HD.png" group-title="EMERGENCIA",SBT SP HD₁
+http://lista.minhadns.me:80/600600900/800900900/81
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Sportv%20HD.png" group-title="EMERGENCIA",SporTV 1 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/721
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Sportv%20HD.png" group-title="EMERGENCIA",SporTV 1 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183429
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Sportv%20HD.png" group-title="EMERGENCIA",SporTV 1 HD₁
+http://lista.minhadns.me:80/600600900/800900900/126
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Sportv%20HD.png" group-title="EMERGENCIA",SporTV 1 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183430
+#EXTINF:-1 tvg-id="SPORTV 1" tvg-name="SporTV 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV.png" group-title="EMERGENCIA",SporTV 1 SD₁
+http://lista.minhadns.me:80/600600900/800900900/127
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202%20HD.png" group-title="EMERGENCIA",SporTV 2 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/722
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202%20HD.png" group-title="EMERGENCIA",SporTV 2 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183431
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202%20HD.png" group-title="EMERGENCIA",SporTV 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/128
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202%20HD.png" group-title="EMERGENCIA",SporTV 2 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183432
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-name="SporTV 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%202.png" group-title="EMERGENCIA",SporTV 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/129
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203%20HD.png" group-title="EMERGENCIA",SporTV 3 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/723
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203%20HD.png" group-title="EMERGENCIA",SporTV 3 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183433
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203%20HD.png" group-title="EMERGENCIA",SporTV 3 HD₁
+http://lista.minhadns.me:80/600600900/800900900/130
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203%20HD.png" group-title="EMERGENCIA",SporTV 3 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183434
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-name="SporTV 3 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/SporTV%203.png" group-title="EMERGENCIA",SporTV 3 SD₁
+http://lista.minhadns.me:80/600600900/800900900/131
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="EMERGENCIA",ESPN 1 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/713
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="EMERGENCIA",ESPN 1 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183415
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="EMERGENCIA",ESPN 1 HD₁
+http://lista.minhadns.me:80/600600900/800900900/110
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="EMERGENCIA",ESPN 1 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183416
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN.png" group-title="EMERGENCIA",ESPN 1 SD₁
+http://lista.minhadns.me:80/600600900/800900900/111
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="EMERGENCIA",ESPN 2 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/714
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="EMERGENCIA",ESPN 2 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183417
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="EMERGENCIA",ESPN 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/112
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="EMERGENCIA",ESPN 2 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183418
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202.png" group-title="EMERGENCIA",ESPN 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/113
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="EMERGENCIA",ESPN Brasil FHD₁
+http://lista.minhadns.me:80/600600900/800900900/715
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="EMERGENCIA",ESPN Brasil FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183419
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="EMERGENCIA",ESPN Brasil HD₁
+http://lista.minhadns.me:80/600600900/800900900/114
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="EMERGENCIA",ESPN Brasil HD₂
+http://lista.minhadns.me:80/600600900/800900900/183420
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil.png" group-title="EMERGENCIA",ESPN Brasil SD₁
+http://lista.minhadns.me:80/600600900/800900900/115
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="EMERGENCIA",ESPN Extra FHD₁
+http://lista.minhadns.me:80/600600900/800900900/2837
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="EMERGENCIA",ESPN Extra FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183421
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="EMERGENCIA",ESPN Extra HD₁
+http://lista.minhadns.me:80/600600900/800900900/2836
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="EMERGENCIA",ESPN Extra HD₂
+http://lista.minhadns.me:80/600600900/800900900/183422
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="Band SP HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Band%20HD.png" group-title="EMERGENCIA",Band SP HD₁
+http://lista.minhadns.me:80/600600900/800900900/69
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="Band SP HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Band%20HD.png" group-title="EMERGENCIA",Band SP HD₂
+http://lista.minhadns.me:80/600600900/800900900/183604
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="Band SP SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Bandeirantes.png" group-title="EMERGENCIA",Band SP SD₁
+http://lista.minhadns.me:80/600600900/800900900/70
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="Rede TV HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Rede%20TV.png" group-title="EMERGENCIA",Rede TV HD₂
+http://lista.minhadns.me:80/600600900/800900900/183624
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="Rede TV SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Rede%20TV.png" group-title="EMERGENCIA",Rede TV SD₁
+http://lista.minhadns.me:80/600600900/800900900/79
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/MTV%20HD.png" group-title="EMERGENCIA",MTV HD₂
+http://lista.minhadns.me:80/600600900/800900900/183574
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/MTV.png" group-title="EMERGENCIA",MTV SD₁
+http://lista.minhadns.me:80/600600900/800900900/210
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action%20HD.png" group-title="EMERGENCIA",Telecine Action FHD₁
+http://lista.minhadns.me:80/600600900/800900900/652
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action%20HD.png" group-title="EMERGENCIA",Telecine Action FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183467
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action%20HD.png" group-title="EMERGENCIA",Telecine Action HD₁
+http://lista.minhadns.me:80/600600900/800900900/7
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action%20HD.png" group-title="EMERGENCIA",Telecine Action HD₂
+http://lista.minhadns.me:80/600600900/800900900/183468
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="Telecine Action SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Action.png" group-title="EMERGENCIA",Telecine Action SD₁
+http://lista.minhadns.me:80/600600900/800900900/9
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult%20HD.png" group-title="EMERGENCIA",Telecine Cult FHD₁
+http://lista.minhadns.me:80/600600900/800900900/653
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult%20HD.png" group-title="EMERGENCIA",Telecine Cult FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183469
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult%20HD.png" group-title="EMERGENCIA",Telecine Cult HD₁
+http://lista.minhadns.me:80/600600900/800900900/12
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult%20HD.png" group-title="EMERGENCIA",Telecine Cult HD₂
+http://lista.minhadns.me:80/600600900/800900900/183470
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="Telecine Cult SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Cult.png" group-title="EMERGENCIA",Telecine Cult SD₁
+http://lista.minhadns.me:80/600600900/800900900/14
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun%20HD.png" group-title="EMERGENCIA",Telecine Fun FHD₁
+http://lista.minhadns.me:80/600600900/800900900/654
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun%20HD.png" group-title="EMERGENCIA",Telecine Fun FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183471
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun%20HD.png" group-title="EMERGENCIA",Telecine Fun HD₁
+http://lista.minhadns.me:80/600600900/800900900/17
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun%20HD.png" group-title="EMERGENCIA",Telecine Fun HD₂
+http://lista.minhadns.me:80/600600900/800900900/183472
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="Telecine Fun SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Fun.png" group-title="EMERGENCIA",Telecine Fun SD₁
+http://lista.minhadns.me:80/600600900/800900900/19
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca%20HD.png" group-title="CANAIS: 4K",TELECINE PIPOCA 4K
+http://lista.minhadns.me:80/600600900/800900900/13404
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca%20HD.png" group-title="EMERGENCIA",Telecine Pipoca FHD₁
+http://lista.minhadns.me:80/600600900/800900900/655
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca%20HD.png" group-title="EMERGENCIA",Telecine Pipoca FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183473
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca%20HD.png" group-title="EMERGENCIA",Telecine Pipoca HD₁
+http://lista.minhadns.me:80/600600900/800900900/23
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca%20HD.png" group-title="EMERGENCIA",Telecine Pipoca HD₂
+http://lista.minhadns.me:80/600600900/800900900/183474
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="Telecine Pipoca SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Pipoca.png" group-title="EMERGENCIA",Telecine Pipoca SD₁
+http://lista.minhadns.me:80/600600900/800900900/24
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium%20HD.png" group-title="EMERGENCIA",Telecine Premium FHD₁
+http://lista.minhadns.me:80/600600900/800900900/656
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium%20HD.png" group-title="EMERGENCIA",Telecine Premium FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183475
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium%20HD.png" group-title="EMERGENCIA",Telecine Premium HD₁
+http://lista.minhadns.me:80/600600900/800900900/27
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium%20HD.png" group-title="EMERGENCIA",Telecine Premium HD₂
+http://lista.minhadns.me:80/600600900/800900900/183476
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="Telecine Premium SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Premium.png" group-title="EMERGENCIA",Telecine Premium SD₁
+http://lista.minhadns.me:80/600600900/800900900/29
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch%20HD.png" group-title="EMERGENCIA",Telecine Touch FHD₁
+http://lista.minhadns.me:80/600600900/800900900/657
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch%20HD.png" group-title="EMERGENCIA",Telecine Touch FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183477
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch%20HD.png" group-title="EMERGENCIA",Telecine Touch HD₁
+http://lista.minhadns.me:80/600600900/800900900/32
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch%20HD.png" group-title="EMERGENCIA",Telecine Touch HD₂
+http://lista.minhadns.me:80/600600900/800900900/183478
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="Telecine Touch SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Telecine%20Touch.png" group-title="EMERGENCIA",Telecine Touch SD₁
+http://lista.minhadns.me:80/600600900/800900900/34
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 1 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181134
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181136
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181137
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 3 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181139
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 3 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 3 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181140
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 4 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 4 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181142
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Conmebol 4 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Conmebol.png" group-title="CANAIS: ESPORTES | WEB",Conmebol 4 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181143
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 1 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181156
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 1 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181157
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181158
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181159
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 3 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 3 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181160
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 3 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 3 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181161
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 4 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 4 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181162
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="DAZN 4 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/DAZN%20HD.png" group-title="CANAIS: ESPORTES | WEB",DAZN 4 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181163
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="CANAIS: ESPORTES",ESPN 1 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/713
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="CANAIS: ESPORTES",ESPN 1 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183415
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="CANAIS: ESPORTES",ESPN 1 HD₁
+http://lista.minhadns.me:80/600600900/800900900/110
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20HD.png" group-title="CANAIS: ESPORTES",ESPN 1 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183416
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN.png" group-title="CANAIS: ESPORTES",ESPN 1 SD₁
+http://lista.minhadns.me:80/600600900/800900900/111
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="CANAIS: ESPORTES",ESPN 2 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/714
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="CANAIS: ESPORTES",ESPN 2 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183417
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="CANAIS: ESPORTES",ESPN 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/112
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202%20HD.png" group-title="CANAIS: ESPORTES",ESPN 2 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183418
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%202.png" group-title="CANAIS: ESPORTES",ESPN 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/113
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="CANAIS: ESPORTES",ESPN Brasil FHD₁
+http://lista.minhadns.me:80/600600900/800900900/715
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="CANAIS: ESPORTES",ESPN Brasil FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183419
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="CANAIS: ESPORTES",ESPN Brasil HD₁
+http://lista.minhadns.me:80/600600900/800900900/114
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil%20HD.png" group-title="CANAIS: ESPORTES",ESPN Brasil HD₂
+http://lista.minhadns.me:80/600600900/800900900/183420
+#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-name="ESPN Brasil SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Brasil.png" group-title="CANAIS: ESPORTES",ESPN Brasil SD₁
+http://lista.minhadns.me:80/600600900/800900900/115
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="CANAIS: ESPORTES",ESPN Extra FHD₁
+http://lista.minhadns.me:80/600600900/800900900/2837
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="CANAIS: ESPORTES",ESPN Extra FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183421
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="CANAIS: ESPORTES",ESPN Extra HD₁
+http://lista.minhadns.me:80/600600900/800900900/2836
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN Extra HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/ESPN%20Extra%20HD.png" group-title="CANAIS: ESPORTES",ESPN Extra HD₂
+http://lista.minhadns.me:80/600600900/800900900/183422
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 1 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/718
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 1 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183423
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 1 HD₁
+http://lista.minhadns.me:80/600600900/800900900/120
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 1 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183424
+#EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="Fox Sports 1 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports.png" group-title="CANAIS: ESPORTES",Fox Sports 1 SD₁
+http://lista.minhadns.me:80/600600900/800900900/121
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 FHD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 2 FHD₁
+http://lista.minhadns.me:80/600600900/800900900/719
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 FHD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 2 FHD₂
+http://lista.minhadns.me:80/600600900/800900900/183425
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/122
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 HD₂" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202%20HD.png" group-title="CANAIS: ESPORTES",Fox Sports 2 HD₂
+http://lista.minhadns.me:80/600600900/800900900/183426
+#EXTINF:-1 tvg-id="FOX SPORTS 2" tvg-name="Fox Sports 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/Fox%20Sports%202.png" group-title="CANAIS: ESPORTES",Fox Sports 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/123
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Furacão Live 1 HD₁ - 24H Ondemand" tvg-logo="http://paineliks.ddns.net/images/canaispng/FuracaoTV.png" group-title="CANAIS: ESPORTES | WEB",Furacão Live 1 HD₁ - 24H Ondemand
+http://lista.minhadns.me:80/600600900/800900900/181224
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Furacão Live 1 SD₁ - 24H Ondemand" tvg-logo="http://paineliks.ddns.net/images/canaispng/FuracaoTV.png" group-title="CANAIS: ESPORTES | WEB",Furacão Live 1 SD₁ - 24H Ondemand
+http://lista.minhadns.me:80/600600900/800900900/181225
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Furacão Live 2 HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FuracaoTV.png" group-title="CANAIS: ESPORTES | WEB",Furacão Live 2 HD₁
+http://lista.minhadns.me:80/600600900/800900900/181171
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Furacão Live 2 SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FuracaoTV.png" group-title="CANAIS: ESPORTES | WEB",Furacão Live 2 SD₁
+http://lista.minhadns.me:80/600600900/800900900/181172
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Futebol HD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FutebolTV.png" group-title="CANAIS: ESPORTES | WEB",Futebol HD₁
+http://lista.minhadns.me:80/600600900/800900900/181174
+#EXTINF:-1 tvg-id="canaleventual.br" tvg-name="Futebol SD₁" tvg-logo="http://paineliks.ddns.net/images/canaispng/FutebolTV.png" group-title="CANAIS: ESPORTES | WEB",Futebol SD₁
+http://lista.minhadns.me:80/600600900/800900900/181175
